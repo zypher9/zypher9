@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zypher9
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning EMC setup
+- 👋 Hi, I’m @Mridul
+- 👀 Madly interested in rollups
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Blockchain ideas
-- 📫 How to reach me at zypher@raum.network
+- 📫 How to reach me at comms@raum.network
 
 <!---
 zypher9/zypher9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
